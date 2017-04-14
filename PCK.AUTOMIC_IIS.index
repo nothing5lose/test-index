@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_IIS",
+  "description" : "Manage Internet Information Server Application",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.IIS_PCK.AUTOMIC_IIS_1_2_2+build.1626.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.2",
+    "sha1" : "4b5c8853f5298f573274b142a5d0920019dd93a2",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic IIS"
+}

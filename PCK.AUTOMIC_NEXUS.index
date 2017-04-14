@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_NEXUS",
+  "description" : "Provides integration with Nexus",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_NEXUS_1.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "e6f5cf0ebe3e1b4d8abc57c0fbabe2ec2e853c92",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Nexus Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Nexus package"
+}

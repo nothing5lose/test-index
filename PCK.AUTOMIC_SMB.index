@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_SMB",
+  "description" : "Downloads files from a SMB/CIFS server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.SMB_PCK.AUTOMIC_SMB_1_1_1+build.1742.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.1",
+    "sha1" : "03d3c03df5c1d90fb516ee075c34958da733754f",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic SMB"
+}

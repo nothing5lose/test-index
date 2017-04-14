@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_DATABASE",
+  "description" : "This package contains actions to interact with a database management system via JDBC.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnfibotool01/packages/Fibonacci/develop/PCK.AUTOMIC_DATABASE_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "fa8af3af52b54625f5a1f65e3d1f6565761ff64a",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.0.0",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Database",
+  "title" : "Automic Database Package"
+}

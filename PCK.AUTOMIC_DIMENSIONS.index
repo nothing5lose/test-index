@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_DIMENSIONS",
+  "description" : "Provides actions to work with DIMENSIONS.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Dimensions_PCK.AUTOMIC_DIMENSIONS_1_0_1+build.1562.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "f52249cbd052fa99b399097636809ad2d9722230",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "SCM,Versioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Dimensions Package"
+}

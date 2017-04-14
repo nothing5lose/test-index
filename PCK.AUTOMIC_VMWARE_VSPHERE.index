@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_VMWARE_VSPHERE",
+  "description" : "Provides integration with VMWare vSphere using powerCLI",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_VMWARE_VSPHERE_1.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "f5ee1782c74fd010ed7ca64406011ab4824af623",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "VMWare vSphere Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "VMWare vSphere Integration package"
+}

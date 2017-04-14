@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_WEBLOGIC",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_TMPL_WEBLOGIC_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "95fee8c10e9401a2ad0d930cf8033287769fd9c8",
+    "dependencies" : {
+      "PCK.AUTOMIC_WEBLOGIC" : "~>1.2",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for WebLogic Deployments"
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_DEB",
+  "description" : "These actions are used for executing Debian package related commands on a system using the dpkg tool.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.DEB_PCK.AUTOMIC_DEB_1_0_1+build.1637.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "20ab94eb419320dcf574f1b633641d56aadad7b4",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Package manager",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Debian Package Manager"
+}

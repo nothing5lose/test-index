@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_ARATOOLS",
+  "description" : "Common binary containing platform independent functionality (e.g. remote connection handling)",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/PCK.AUTOMIC_ARATOOLS_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "17d389809cbc4b44607430189fa37e48017da063",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Binary, Utility",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic ARATools"
+}

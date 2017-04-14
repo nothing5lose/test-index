@@ -1,0 +1,24 @@
+{
+  "name" : "PCK.AUTOMIC_ORACLE_SOA",
+  "description" : "This package contains actions to interact with Oracle SOA",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Oracle.SOA_PCK.AUTOMIC_ORACLE_SOA_1_0_2+build.2040.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.2",
+    "sha1" : "b61ff83668b063d4ee355f39d0432c70ea19e607",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1",
+      "PCK.AUTOMIC_WEBLOGIC" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Oracle SOA"
+}

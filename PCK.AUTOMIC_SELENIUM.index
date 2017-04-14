@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_SELENIUM",
+  "description" : "Provides integration with Selenium",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_SELENIUM_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "9c555bd3719f3da8e0df0649fec07f469e6eb865",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Selenium Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Selenium Package"
+}

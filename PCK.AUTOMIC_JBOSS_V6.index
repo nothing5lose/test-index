@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_JBOSS_V6",
+  "description" : "Application Server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.JBOSS_V6_PCK.AUTOMIC_JBOSS_V6_1_0_2+build.1875.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.2",
+    "sha1" : "4081d3d229af3b95749d80e5b579daa51628414f",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "JBOSS_V6"
+}

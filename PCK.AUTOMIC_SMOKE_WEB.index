@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_SMOKE_WEB",
+  "description" : "Provides basic functionality for smoke testing websites",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.SMOKE_WEB_PCK.AUTOMIC_SMOKE_WEB_1_0_1+build.1303.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "adf167361542e69b151ba1c4e65c2ff15e7f0052",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Test",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic Smoke Web"
+}

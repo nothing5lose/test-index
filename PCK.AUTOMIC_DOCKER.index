@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_DOCKER",
+  "description" : "Provides integration with Docker",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_DOCKER_1.3.1.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.3.1",
+    "sha1" : "e576fea2aacc21600edca3366c175a33555593cc",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Commercial",
+  "categories" : "Docker Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Docker Package"
+}

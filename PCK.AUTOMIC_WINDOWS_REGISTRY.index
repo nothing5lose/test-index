@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_WINDOWS_REGISTRY",
+  "description" : "Manipulate the Windows Registry of the target host.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.WINDOWS_REGISTRY_PCK.AUTOMIC_WINDOWS_REGISTRY_1_2_1+build.1641.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.1",
+    "sha1" : "69d5119ff01cb79da90132516d62ace2eb7528c3",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "OS, WIN",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic Windows Registry"
+}

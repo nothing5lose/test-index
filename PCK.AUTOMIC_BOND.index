@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_BOND",
+  "description" : "Preliminary package for ARA providing basic functionality",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Bond_PCK.AUTOMIC_BOND_1_0_3+build.1249.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.3",
+    "sha1" : "48932b2b4ff9525a3868ef2a0baed51ee97770b1",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic BOND"
+}

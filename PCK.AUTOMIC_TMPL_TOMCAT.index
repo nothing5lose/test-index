@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_TOMCAT",
+  "description" : "Template workflows for Tomcat Deployments",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_TMPL_TOMCAT_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "91aa4ee44e4b9489bdc02f2cedb59b62b951c7af",
+    "dependencies" : {
+      "PCK.AUTOMIC_TOMCAT" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for Tomcat Deployments"
+}

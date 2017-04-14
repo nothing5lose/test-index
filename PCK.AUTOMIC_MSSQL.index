@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_MSSQL",
+  "description" : "This package provide actions to cover basic deployment scenarios specific for MSSQL databases",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.MSSQL_PCK.AUTOMIC_MSSQL_1_0_2+build.1379.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.2",
+    "sha1" : "fc2af9d207c52cad07b87ae9cca7676385f76ffc",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_JDBC" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Database, Microsoft",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic MSSQL"
+}

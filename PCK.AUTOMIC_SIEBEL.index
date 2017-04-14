@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_SIEBEL",
+  "description" : "The Siebel Offering speeds up the deployment of Siebel applications. It also reduces downtime and increases agility of Siebel environments.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnfibotool01/packages/Fibonacci/develop/PCK.AUTOMIC_SIEBEL_1.2.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.0",
+    "sha1" : "2a85e24e999ecd3809a180f18677ec0905c66d06",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_FILESYSTEM" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Siebel",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Siebel Package"
+}

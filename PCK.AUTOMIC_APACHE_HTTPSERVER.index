@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_APACHE_HTTPSERVER",
+  "description" : "Provides integration with Apache HTTP Server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_APACHE_HTTPSERVER_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "67c245d086a62dd00613c215398540da46f758d4",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Apache HTTP Server Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Apache HTTP Server Package"
+}

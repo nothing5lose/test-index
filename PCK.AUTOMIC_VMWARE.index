@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_VMWARE",
+  "description" : "Manage a VMWare environment.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/PCK.AUTOMIC_VMWARE_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "0c612f9631e9267677232c5f009ceca253e6d42a",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Virtualization, Provisioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic VMware"
+}

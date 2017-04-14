@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_UNIX",
+  "description" : "These actions execute basic commands on a UNIX operating system.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.UNIX_PCK.AUTOMIC_UNIX_1_1_1+build.1669.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.1",
+    "sha1" : "bbe87349f56ae1ce5b09900f23a2eda5dc31a931",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "OS, Shell, UNIX",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic UNIX Commands"
+}

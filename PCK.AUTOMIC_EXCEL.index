@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_EXCEL",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnfibotool01/packages/Fibonacci/develop/PCK.AUTOMIC_EXCEL_0.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.1.0",
+    "sha1" : "ca0438649b3dc14411360f8ecc149c1cd4332a01",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_FILESYSTEM" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Excel",
+  "title" : "Automic Excel package"
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_ARA",
+  "description" : "Application Release Manager",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsat01/opt/packages/ITPA/develop/PCK.AUTOMIC_ARA_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "e93f37b307bc7087e3d3777fc2cf071f0de49554",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "http://www.automic.com",
+  "license" : "",
+  "categories" : "Application Release Manager",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "ARA"
+}

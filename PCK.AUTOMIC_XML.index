@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_XML",
+  "description" : "Manipulate XML files.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.XML_PCK.AUTOMIC_XML_1_1_2+build.2187.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.2",
+    "sha1" : "1da07c3583e5c79df6299eefea197a8cd0c5b8b6",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "XML, File manipulation",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic XML manipulation"
+}

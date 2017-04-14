@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_JAVA_PROPERTIES",
+  "description" : "Manipulate variables in a Java properties file.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.JAVA_PROPERTIES_PCK.AUTOMIC_JAVA_PROPERTIES_1_1_1+build.1301.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.1",
+    "sha1" : "5ce5b6cc2d287cfb8bb0bf511a7fb266bed32934",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Java Properties, File manipulation",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic Java Properties"
+}

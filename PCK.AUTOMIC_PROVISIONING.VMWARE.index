@@ -1,0 +1,27 @@
+{
+  "name" : "PCK.AUTOMIC_PROVISIONING.VMWARE",
+  "description" : "Enables ARA to provision Stacks running on a VMware vSphere",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Provisioning.VMware_PCK.AUTOMIC_PROVISIONING.VMWARE_1_0_0+build.2263.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "e6e61cdcdce6c132e83083acc844d7b040536f59",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_DM" : ">=1.2.1",
+      "PCK.AUTOMIC_PROVISIONING" : "~>1.1",
+      "PCK.AUTOMIC_AGENT_DEPLOYMENT" : "~>1.0",
+      "PCK.AUTOMIC_RA_REST" : "~>1.0",
+      "PCK.AUTOMIC_VMWARE_VSPHERE" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Provisioning, VMware, vSphere",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "VMware vSphere Stack Provider integration"
+}

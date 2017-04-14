@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_WEBLOGIC",
+  "description" : "This package contains actions to interact with Weblogic application server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Weblogic_PCK.AUTOMIC_WEBLOGIC_1_2_1+build.1995.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.1",
+    "sha1" : "1872292e822f0b74f4b47fe219a7c2cec87a0ea7",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic WebLogic"
+}

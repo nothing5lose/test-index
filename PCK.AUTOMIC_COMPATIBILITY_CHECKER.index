@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_COMPATIBILITY_CHECKER",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Compabitily.Checker_PCK.AUTOMIC_COMPATIBILITY_CHECKER_1_0_0+build.2029.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "56ffb1e873867e87f9fb9ae74a1d66b2f547d883",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Utility",
+  "packageFormatVersion" : "0.2.0",
+  "title" : ""
+}

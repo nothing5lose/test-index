@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_VSS",
+  "description" : "This package contains actions to interact with Microsoft Visual SourceSafe",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnfibotool01/packages/Fibonacci/develop/PCK.AUTOMIC_VSS_0.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.1.0",
+    "sha1" : "10cdbf2c0343f150a1dfab8ca6cfe699a0489021",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_FILESYSTEM" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "VSS",
+  "title" : "Automic Visual SourceSafe Library"
+}

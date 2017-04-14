@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_ARTIFACTORY",
+  "description" : "Provides integration with jFrog Artifactory",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_ARTIFACTORY_1.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "7acd3f44f6e19f3eae95bd82cfed0339a95664eb",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "jFrog Artifactory Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Integration with jFrog Artifactory"
+}

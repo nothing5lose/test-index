@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_OPENSTACK",
+  "description" : "Provides integration with OpenStack",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_OPENSTACK_1.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "b748c6e4502158a7c5b24c0f4bc69fee0452c6da",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Commercial",
+  "categories" : "OpenStack Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic OpenStack Package"
+}

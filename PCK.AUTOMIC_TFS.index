@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TFS",
+  "description" : "This package contains actions to interact with MS Team Foundation Server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.TFS_PCK.AUTOMIC_TFS_1_2_1+build.1884.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.1",
+    "sha1" : "68f2c2d4c8287a46d42b223fe159ffff6d09450f",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "SCM, Versioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Team Foundation Server Library"
+}

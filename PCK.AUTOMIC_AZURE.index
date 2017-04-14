@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_AZURE",
+  "description" : "Provides integration with Azure",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_AZURE_1.0.2.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.2",
+    "sha1" : "cfe3b0fc95b221f6674be888ff32a2b354bc9afb",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Commercial",
+  "categories" : "Azure Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Azure Package"
+}

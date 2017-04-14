@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_SHARED",
+  "description" : "This package contains commonly used components and actions.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnfibotool01/packages/Fibonacci/develop/PCK.AUTOMIC_SHARED_1.0.1.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "5753361f5cb9f555552a547848ad4989c92ffa70",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Shared",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Shared Library"
+}

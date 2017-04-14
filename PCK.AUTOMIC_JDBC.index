@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_JDBC",
+  "description" : "This package contains actions to interact with a database management system via JDBC.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.JDBC_PCK.AUTOMIC_JDBC_1_2_4+build.2170.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.4",
+    "sha1" : "6474873b948e0eef91bed0d79d8d486097a205fa",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.2"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Database",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic JDBC Package"
+}

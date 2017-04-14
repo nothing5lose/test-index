@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_DM",
+  "description" : "Application Release Manager",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.DM_PCK.AUTOMIC_DM_1_2_2+build.1408.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.2",
+    "sha1" : "0ecb7aa975ae34d6eb96f09b0a8a675d2fdd36b7",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_BOND" : "~>1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Release Manager",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic DM Package"
+}

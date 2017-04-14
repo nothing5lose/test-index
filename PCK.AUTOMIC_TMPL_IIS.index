@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_IIS",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_TMPL_IIS_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "e28e261a6c96752f4745e852a32feea6d7a4d369",
+    "dependencies" : {
+      "PCK.AUTOMIC_IIS" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for IIS Deployments"
+}

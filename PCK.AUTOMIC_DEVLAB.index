@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_DEVLAB",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnfibotool01/packages/Fibonacci/develop/PCK.AUTOMIC_DEVLAB_0.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.1.0",
+    "sha1" : "f6e20215be475272720c29c2935784548092ccbb",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "",
+  "title" : "DevLab"
+}

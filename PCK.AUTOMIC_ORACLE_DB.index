@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_ORACLE_DB",
+  "description" : "Cover basic deployment scenarios around Oracle databases.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Oracle.DB_PCK.AUTOMIC_ORACLE_DB_1_0_1+build.1897.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "ba988ca2cf843372500f3d3dc46a45e6bfa6320a",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Database",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic Oracle Database"
+}

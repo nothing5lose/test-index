@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_JETBRAINS_TEAMCITY",
+  "description" : "Provides integration with Jetbrains TeamCity",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_JETBRAINS_TEAMCITY_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "0863c19dbc57a9b1b93a5bd98ca59e6de61c182c",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Jetbrains TeamCity Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Jetbrains TeamCity Package"
+}

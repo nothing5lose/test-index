@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_CA_BLAZEMETER",
+  "description" : "Provides integration with CA Blazemeter",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_CA_BLAZEMETER_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "1e101df4df6469f236f635aedf8c958e4979e73a",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "CA Blazemeter Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic CA Blazemeter Package"
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_HTTP",
+  "description" : "Download files from a web server via HTTP or HTTPS.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.HTTP_PCK.AUTOMIC_HTTP_1_1_2+build.1817.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.2",
+    "sha1" : "cce5658e13b5044f60c71ef1cb365097aa909a2a",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic HTTP package"
+}

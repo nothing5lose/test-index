@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_AGENT_2_AGENT",
+  "description" : "Transfers one or more files from one host to another host using the agent-to-agent file transfer mechanism. \nBoth the host can be any Unix or Windows machines. All empty folders (no files inside) will be transfered.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Agent.2.Agent_PCK.AUTOMIC_AGENT_2_AGENT_1_1_2+build.1336.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.2",
+    "sha1" : "4608aaab24f02f61358a6f034d3df18e74cf801e",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.2"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic Agent to Agent"
+}

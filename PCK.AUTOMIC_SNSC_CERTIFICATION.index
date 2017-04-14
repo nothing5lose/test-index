@@ -1,0 +1,19 @@
+{
+  "name" : "PCK.AUTOMIC_SNSC_CERTIFICATION",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsat01/opt/packages/ITPA/develop/PCK.AUTOMIC_SNSC_CERTIFICATION_0.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.1.0",
+    "sha1" : "20a853830d68f6cc6b644ea59ce891e15b8fa3b6",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "",
+  "title" : "NEW.PACKAGE"
+}

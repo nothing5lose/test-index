@@ -1,0 +1,26 @@
+{
+  "name" : "PCK.AUTOMIC_AGENT_DEPLOYMENT",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.Agent.Deployment_PCK.AUTOMIC_AGENT_DEPLOYMENT_1_0_0+build.2269.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "5d4ab398fd505492d38b4ec89a435bcbe11e77c2",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.2",
+      "PCK.AUTOMIC_FILESYSTEM" : ">=1.2.0",
+      "PCK.AUTOMIC_CONNECTIVITY" : "~>1.0",
+      "PCK.AUTOMIC_INI" : "~>1.1",
+      "PCK.AUTOMIC_TEXT" : "~>1.1"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Agent Deployment",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Automic Agent Deployment"
+}

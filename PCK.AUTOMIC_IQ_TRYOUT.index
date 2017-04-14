@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_IQ_TRYOUT",
+  "description" : "Dummy Package for IQ tryout",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/PCK.AUTOMIC_IQ_TRYOUT_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "beb80f0c75a5c70d2a052a70d8aef4527127249a",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic IQ Tryout"
+}

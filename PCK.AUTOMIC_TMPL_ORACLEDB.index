@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_ORACLEDB",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.nagarro.com/Packages/develop/PCK.AUTOMIC_TMPL_ORACLEDB_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "da4fe9b0bc10f86d05430030ec199f8b88d2eba4",
+    "dependencies" : {
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1",
+      "PCK.AUTOMIC_ORACLE_DB" : "~>1.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Database Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for Oracle DB Deployments"
+}

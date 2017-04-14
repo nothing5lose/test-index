@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_RA_REST",
+  "description" : "Preliminary package for Action Builder to create REST Actions",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/Package.RA_REST_PCK.AUTOMIC_RA_REST_1_0_0+build.1261.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "5495f07346de743e41c56e1489c6c1eb0fbe93c0",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Utility",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Rapid Automation REST base Pack"
+}
