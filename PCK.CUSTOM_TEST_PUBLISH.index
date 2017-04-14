@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.CUSTOM_TEST_PUBLISH",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/test/PCK.CUSTOM_TEST_PUBLISH_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "70f5a9f58d5614c942eaabdb0a9199a9eeb1900d",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.2"
+    }
+  },
+  "company" : "Custom",
+  "homepage" : "www.yourcompany.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Test Publish"
+}
